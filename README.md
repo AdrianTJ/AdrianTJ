@@ -3,7 +3,7 @@
 I'm Adrian Tame Jacobo
 
 - 🔭 Undergrad in Applied Mathematics first, MSc in Data Scientist second. 
-- 👯 I’m looking to work in NLP in general, or any otjer interesting problem involving heavy ML requirements or modeling.
+- 👯 I’m looking to work in NLP in general, or any other interesting problem involving heavy ML requirements or modeling.
 - 📫 Reach me at: adrian.tame.jacobo@gmail.com
 
 "Do I dare
