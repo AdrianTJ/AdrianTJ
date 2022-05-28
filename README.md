@@ -2,7 +2,7 @@
 
 I'm Adrian Tame
 
-- 🔭 Undergrad in Applied Mathematics first, MSc in Data Scientist second. 
+- 🔭 Bachelors in Applied Mathematics first, MSc in Data Scientist second. 
 - 👯 I’m looking to work in NLP in general, or any other interesting problem involving heavy ML requirements or modeling.
 - 📫 Reach me at: adrian.tame.jacobo@gmail.com
 
