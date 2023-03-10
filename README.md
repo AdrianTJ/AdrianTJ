@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm AdrianTJ</h1>
 <h3 align="center">Mathematician first, data scientist second.</h3>
 
-- 🔭 I’m currently working on [Bayesian Optimization](https://github.com/AdrianTJ/BayesianOptim_BASS)
+- 🔭 I’m currently working on [Bayesian Optimization](https://github.com/AdrianTJ/BayesianOptim_BASS) and derivatives pricing algorithms. 
 
-- 🌱 I’m currently learning **Rust, Azure Cloud**
+- 🌱 I’m currently learning **Rust**, **operator theory**, and **OOP**.
 
-- 👯 I’m looking to collaborate on **hyperparameter optimization algorithms or NLP in general**
+- 👯 I’m looking to collaborate on **hyperparameter optimization algorithms**, **analysis of financial time series** or **NLP in general**.
 
 - 👨‍💻 All of my projects are available at [https://adriantj.vercel.app/](https://adriantj.vercel.app/)
 
