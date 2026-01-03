@@ -7,4 +7,4 @@
 
 - 👯 I’m looking to collaborate on **bayesian models**, **time series forecasting techniques**, **data science applied to real estate**.
 
-- 👨‍💻 All of my projects are available at [https://adriantj.vercel.app/](https://adriantj.vercel.app/)
+- 👨‍💻 Some of my projects and my blog are available at [my personal website](https://adriantj.github.io/)
