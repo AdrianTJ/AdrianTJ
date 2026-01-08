@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">Mathematician & Data Scientist</h3>
 
-- 🔭 I’m currently working on [Bayesian Optimization](https://github.com/AdrianTJ/BayesianOptim_BASS) and Time Series Analysis. 
+- 🔭 I’m currently working on [My Personal Website](https://adriantj.github.io/) and Anomaly Detection Methodologies. 
 
 - 🌱 I’m currently learning **econometirc theory**, **portfolio optimization**, and **agentic systems**.
 
