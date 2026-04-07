@@ -5,6 +5,6 @@
 
 - 🌱 I’m currently learning **econometirc theory**, and **portfolio optimization**.
 
-- 👯 I’m looking to collaborate on **bayesian models**, **time series forecasting techniques**, **anomally detection methodologies**.
+- 👯 I’m looking to collaborate on **agentic systems**, **time series forecasting techniques**, **anomally detection methodologies**.
 
 - 👨‍💻 Some of my projects and my blog are available at [my personal website](https://adriantj.github.io/)
