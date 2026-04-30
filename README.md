@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [My Personal Website](https://adriantj.github.io/), [trading astrategies](https://github.com/AdrianTJ/Trading_Strategies), agentic systems, and Structured Document Extraction with OCR.
 
-- 🌱 I’m currently learning **econometirc theory**, and **portfolio optimization**.
+- 🌱 I’m currently learning **econometirc theory**, and **portfolio optimization** and **Go**.
 
 - 👯 I’m looking to collaborate on **agentic systems**, **time series forecasting techniques**, **anomally detection methodologies**.
 
