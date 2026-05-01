@@ -2,7 +2,7 @@
 <h3 align="center">Mathematician & Data Scientist</h3>
 
 <p align="center">
-  <img src="r41710web-story.gif" alt="Adrian's Web Story" style="border-radius: 20px;" width="250">
+  <img src="profile_img.gif" alt="Adrian's Web Story" width="250">
 </p>
 
 - 🔭 I’m currently working on [My Personal Website](https://adriantj.github.io/), [trading astrategies](https://github.com/AdrianTJ/Trading_Strategies), agentic systems, and Structured Document Extraction with OCR.
