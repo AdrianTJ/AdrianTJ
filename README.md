@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">hi there 👋</h1>
+<h1 align="center">hi there 👋, i'm adrian, a mathematician and data scientist</h1>
 
 ###
 
