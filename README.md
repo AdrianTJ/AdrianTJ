@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on My Personal Website, autoresearching LLM agents, agentic systems, and Structured Document Extraction with OCR.<br><br>🌱 I’m currently learning econometirc theory, and portfolio optimization and Rust.<br><br>👯 I’m looking to collaborate on agentic systems, time series forecasting techniques, anomally detection methodologies.<br><br>👨‍💻 Some of my projects and my blog are available at my personal website</p>
+<p align="left">🔭 I’m currently working on [My Personal Website](https://adriantj.github.io/), [trading strategies](https://github.com/AdrianTJ/Trading_Strategies), autoresearching LLM agents, and Structured Document Extraction with OCR.<br><br>🌱 I’m currently learning **econometric theory**, **portfolio optimization**, and **Rust**.<br><br>👯 I’m looking to collaborate on **agentic systems**, **time series forecasting techniques**, and **anomaly detection methodologies**.<br><br>👨‍💻 Some of my projects and my blog are available at [my personal website](https://adriantj.github.io/)</p>
 
 ###
 
@@ -26,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
   <img width="12" />
