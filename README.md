@@ -6,7 +6,7 @@
 
 ## 🏝️ about me
 
-🔭 I’m currently working on [My Personal Website](https://adriantj.github.io/), [trading strategies](https://github.com/AdrianTJ/Trading_Strategies), autoresearching LLM agents, and Structured Document Extraction with OCR.
+🔭 I’m currently working on [my Personal Website](https://adriantj.github.io/), [trading strategies](https://github.com/AdrianTJ/Trading_Strategies), autoresearching LLM agents, and Structured Document Extraction with OCR.
 
 🌱 I’m currently learning **econometric theory**, **portfolio optimization**, and **Rust**.
 
