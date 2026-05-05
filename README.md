@@ -4,7 +4,7 @@
   # hi there 👋, i'm adrian, a mathematician and data scientist
 </div>
 
-## 🌵 about me
+## 🏝️ about me
 
 🔭 I’m currently working on [My Personal Website](https://adriantj.github.io/), [trading strategies](https://github.com/AdrianTJ/Trading_Strategies), autoresearching LLM agents, and Structured Document Extraction with OCR.
 
