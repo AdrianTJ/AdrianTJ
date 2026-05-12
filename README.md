@@ -1,10 +1,10 @@
 <div align="center">
   <img height="150" src="profile_img.gif" alt="Profile Image" />
 
-  # hi there 👋, i'm adrian, a mathematician and data scientist
+  # 👋 hi there, i'm adrian, a mathematician and data scientist
 </div>
 
-## 🏝️ about me
+## ⛵️ about me
 
 🔭 I’m currently working on [my personal website](https://adriantj.github.io/), [trading strategies](https://github.com/AdrianTJ/Trading_Strategies), autoresearching LLM agents, and Structured Document Extraction with OCR (lots of this!)
 
