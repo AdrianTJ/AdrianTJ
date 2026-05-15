@@ -10,7 +10,7 @@
 
 🌱 I’m currently learning **econometric theory**, **portfolio optimization**, and **Rust**.
 
-👯 I’m looking to collaborate on **agentic systems**, **time series forecasting techniques**, and **anomaly detection methodologies**.
+👯 I’m looking to collaborate on **agentic systems**, **time series forecasting techniques in finance**, and **anomaly detection methodologies**.
 
 👨‍💻 Some of my projects and my blog are available at [my personal website](https://adriantj.github.io/)
 
