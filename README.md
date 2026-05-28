@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠 Language and tools
+## 🛠 languages and tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
@@ -44,7 +44,7 @@
 
 ---
 
-## 🔥 My Stats :
+## 🔥 my stats :
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=adriantj&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
