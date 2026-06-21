@@ -6,13 +6,23 @@
 
 ## ⛵️ about me
 
-🔭 I’m currently working on [my personal website](https://adriantj.github.io/), [trading strategies](https://github.com/AdrianTJ/Trading_Strategies), autoresearching LLM agents, and Structured Document Extraction with OCR (lots of this!)
+🔭 I’m currently working on [my personal website](https://adriantj.github.io/), an [AB testing API](https://github.com/AdrianTJ/Birefringence), autoresearching LLM agents, and Structured Document Extraction with OCR (lots of this!)
 
 🌱 I’m currently learning **econometric theory**, **portfolio optimization**, and **Rust**.
 
 👯 I’m looking to collaborate on **agentic systems**, **time series forecasting techniques in finance**, and **anomaly detection methodologies**.
 
 👨‍💻 Some of my projects and my blog are available at [my personal website](https://adriantj.github.io/)
+
+---
+
+## 🚀 some of my projects
+
+- 📈 [Trading Strategies](https://github.com/AdrianTJ/Trading_Strategies) — a site to track how trading strategies perform over time
+- 🧪 [Birefringence](https://github.com/AdrianTJ/Birefringence) — an AB testing API
+- 🤖 [Agentic Engineering](https://github.com/AdrianTJ/agentic_engineering) — agents and skills for agentic engineering
+- 🌐 [adriantj.github.io](https://github.com/AdrianTJ/adriantj.github.io) — my personal site, blog, and project archive
+- 🦀 [Rust Learning](https://github.com/AdrianTJ/Rust-Learning) — notes and code as I learn Rust
 
 ---
 
