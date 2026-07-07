@@ -1,9 +1,7 @@
 <div align="center">
   <img height="150" src="profile_img.gif" alt="Profile Image" />
 
-  # 👋 hi there, i'm adrian, a mathematician and ml engineer
-
-  *applied mathematician first, data scientist second*
+  # 👋 hi there, i'm adrian, a mathematician and ai + ml engineer
 </div>
 
 ## ⛵️ about me
