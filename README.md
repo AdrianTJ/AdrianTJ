@@ -47,8 +47,6 @@
 ## 🚀 some of my other projects
 
 - 🤖 [Agentic Engineering](https://github.com/AdrianTJ/agentic_engineering) — agents and skills for agentic engineering
-- 🏗️ [template-ai-engineering](https://github.com/AdrianTJ/template-ai-engineering) — a template for bootstrapping the AI agent journey: skills, agents, and connections that project into any harness
-- 📈 [Trading Strategies](https://github.com/AdrianTJ/Trading_Strategies) — a site to track how trading strategies perform over time
 - 🦀 [Rust Learning](https://github.com/AdrianTJ/Rust-Learning) — notes and code as I learn Rust
 - 🌐 [adriantj.github.io](https://github.com/AdrianTJ/adriantj.github.io) — my personal site, blog, and project archive
 
