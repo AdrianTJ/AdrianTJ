@@ -10,7 +10,7 @@
 
 🔭 I’m currently working on [mollify](https://github.com/AdrianTJ/mollify), a Rust-native static analysis engine for Python codebases, my [MSc thesis on Bayesian optimization with BASS](https://github.com/AdrianTJ/BayesianOptim_BASS), autoresearching LLM agents, and Structured Document Extraction with OCR (lots of this!)
 
-🌱 I’m currently learning **econometric theory**, **portfolio optimization**, and **Rust** (and [keeping notes](https://github.com/AdrianTJ/Rust-Learning) as I go).
+🌱 I’m currently learning **econometric theory**, **agentic harness design**, and **Rust** (and [keeping notes](https://github.com/AdrianTJ/Rust-Learning) as I go).
 
 👯 I’m looking to collaborate on **agentic systems**, **time series forecasting techniques in finance**, and **anomaly detection methodologies**.
 
