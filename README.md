@@ -18,13 +18,20 @@
 
 ---
 
-## 🏔️ foothills labs
+## foothills labs
 
 <div align="center">
-  <a href="https://github.com/foothills-labs"><b>Foothills Labs</b></a> — an AI foundation lab i'm building 🚀
+  <a href="https://github.com/foothills-labs">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/foothills-mark-dark.svg" />
+      <img src="assets/foothills-mark.svg" height="96" alt="Foothills Labs" />
+    </picture>
+  </a>
 
-  <a href="https://github.com/foothills-labs/regexbench"><img src="https://img.shields.io/badge/regexbench-222222?style=flat-square&logo=github&logoColor=white" alt="regexbench" /></a>
-  <a href="https://github.com/foothills-labs/labloop"><img src="https://img.shields.io/badge/labloop-222222?style=flat-square&logo=github&logoColor=white" alt="labloop" /></a>
+  <p><b>Foothills Labs</b> — an AI foundation lab i'm building</p>
+
+  <a href="https://github.com/foothills-labs/regexbench"><img src="https://img.shields.io/badge/regexbench-2F6E70?style=flat-square&logo=github&logoColor=white" alt="regexbench" /></a>
+  <a href="https://github.com/foothills-labs/labloop"><img src="https://img.shields.io/badge/labloop-2F6E70?style=flat-square&logo=github&logoColor=white" alt="labloop" /></a>
 </div>
 
 ---
