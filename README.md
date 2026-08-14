@@ -12,7 +12,7 @@
 
 🌱 I’m currently learning **econometric theory**, **agentic harness design**, and **Rust** (and [keeping notes](https://github.com/AdrianTJ/Rust-Learning) as I go).
 
-👯 I’m looking to collaborate on **agentic systems**, **time series forecasting techniques in finance**, and **anomaly detection methodologies**.
+👯 I’m looking to collaborate on **agentic systems**, **ai harnesses for programming**, and **document understanding**.
 
 👨‍💻 Some of my projects and my blog are available at [my personal website](https://adriantj.github.io/)
 
