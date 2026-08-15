@@ -22,10 +22,7 @@
 
 <div align="center">
   <a href="https://github.com/foothills-labs">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/foothills-mark-dark.svg" />
-      <img src="assets/foothills-mark.svg" height="96" alt="Foothills Labs" />
-    </picture>
+    <img src="assets/avatarcreambordered.svg" height="104" alt="Foothills Labs" />
   </a>
 
   <p><b>Foothills Labs</b> — an AI research lab i'm building</p>
