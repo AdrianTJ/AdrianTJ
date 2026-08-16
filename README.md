@@ -25,7 +25,7 @@
     <img src="assets/avatarcreambordered.svg" height="104" alt="Foothills Labs" />
   </a>
 
-  <p><b>Foothills Labs</b> — an AI research lab i'm building</p>
+  <p><b>foothills labs</b> — an AI research lab i'm building</p>
 
   <a href="https://github.com/foothills-labs/regexbench"><img src="https://img.shields.io/badge/regexbench-2F6E70?style=flat-square&logo=github&logoColor=white" alt="regexbench" /></a>
   <a href="https://github.com/foothills-labs/labloop"><img src="https://img.shields.io/badge/labloop-2F6E70?style=flat-square&logo=github&logoColor=white" alt="labloop" /></a>
