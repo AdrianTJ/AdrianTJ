@@ -3,12 +3,12 @@
 
   # 👋 hi there, i'm adrian, a mathematician and ai + ml engineer
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&center=true&vCenter=true&width=550&height=30&lines=building+mollify%3A+deterministic+code+intelligence;bayesian+optimization+%2B+adaptive+splines;llm+agents%2C+quant+finance%2C+and+ocr" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&center=true&vCenter=true&width=550&height=30&lines=building+foothills+labs%3A+an+ai+research+lab;bayesian+optimization+%2B+adaptive+splines;llm+agents%2C+ai+harnesses%2C+and+document+understanding" alt="typing intro" />
 </div>
 
 ## ⛵️ about me
 
-🔭 I’m currently working on [mollify](https://github.com/AdrianTJ/mollify), a Rust-native static analysis engine for Python codebases, my [MSc thesis on Bayesian optimization with BASS](https://github.com/AdrianTJ/BayesianOptim_BASS), autoresearching LLM agents, and Structured Document Extraction with OCR (lots of this!)
+🔭 I’m currently working on [foothills labs](https://github.com/foothills-labs), [Agentia](https://github.com/AdrianTJ/Agentia), a Markdown and HTML editor for the AI age, my [MSc thesis on Bayesian optimization with BASS](https://github.com/AdrianTJ/BayesianOptim_BASS), autoresearching LLM agents, and Structured Document Extraction with OCR (lots of this!)
 
 🌱 I’m currently learning **econometric theory**, **agentic harness design**, and **Rust** (and [keeping notes](https://github.com/AdrianTJ/Rust-Learning) as I go).
 
@@ -27,6 +27,7 @@
 
   <p><b>foothills labs</b> — an AI research lab i'm building</p>
 
+  <a href="https://foothills-labs.github.io/"><img src="https://img.shields.io/badge/foothills--labs.github.io-EE8B33?style=flat-square&logo=googlechrome&logoColor=white" alt="foothills labs website" /></a>
   <a href="https://github.com/foothills-labs/regexbench"><img src="https://img.shields.io/badge/regexbench-2F6E70?style=flat-square&logo=github&logoColor=white" alt="regexbench" /></a>
   <a href="https://github.com/foothills-labs/labloop"><img src="https://img.shields.io/badge/labloop-2F6E70?style=flat-square&logo=github&logoColor=white" alt="labloop" /></a>
 </div>
@@ -38,14 +39,13 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧬 <a href="https://github.com/AdrianTJ/mollify">mollify</a></h3>
+      <h3 align="center">✍️ <a href="https://github.com/AdrianTJ/Agentia">Agentia</a></h3>
       <p align="center">
-        <a href="https://github.com/AdrianTJ/mollify"><img src="https://img.shields.io/github/stars/AdrianTJ/mollify?style=flat-square&logo=github&label=stars" alt="mollify stars" /></a>
-        <a href="https://pypi.org/project/mollify/"><img src="https://img.shields.io/pypi/v/mollify?style=flat-square&logo=python&logoColor=white&label=pypi" alt="mollify on pypi" /></a>
-        <img src="https://img.shields.io/github/languages/top/AdrianTJ/mollify?style=flat-square" alt="mollify top language" />
+        <a href="https://github.com/AdrianTJ/Agentia"><img src="https://img.shields.io/github/stars/AdrianTJ/Agentia?style=flat-square&logo=github&label=stars" alt="Agentia stars" /></a>
+        <img src="https://img.shields.io/github/languages/top/AdrianTJ/Agentia?style=flat-square" alt="Agentia top language" />
+        <img src="https://img.shields.io/github/last-commit/AdrianTJ/Agentia?style=flat-square&label=last%20commit" alt="Agentia last commit" />
       </p>
-      <p align="center">deterministic codebase intelligence for Python: dead code, dependencies, architecture, duplication, and security in one pass — written in Rust</p>
-      <p align="center"><code>uv tool install mollify</code></p>
+      <p align="center">a Markdown and HTML editor for the AI age — a native writing environment built in Swift</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🎯 <a href="https://github.com/AdrianTJ/BayesianOptim_BASS">BayesianOptim_BASS</a></h3>
@@ -61,7 +61,9 @@
 
 ## 🚀 some of my other projects
 
+- 🧬 [mollify](https://github.com/FavioVazquez/mollify) — deterministic codebase intelligence for Python, written in Rust; a project I work on, now maintained by [@FavioVazquez](https://github.com/FavioVazquez)
 - 🤖 [Agentic Engineering](https://github.com/AdrianTJ/agentic_engineering) — agents and skills for agentic engineering
+- ⚡ [Loadstar](https://github.com/AdrianTJ/Loadstar) — a Go-based API for speed testing websites
 - 🦀 [Rust Learning](https://github.com/AdrianTJ/Rust-Learning) — notes and code as I learn Rust
 - 🌐 [adriantj.github.io](https://github.com/AdrianTJ/adriantj.github.io) — my personal site, blog, and project archive
 
@@ -81,6 +83,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
 </div>
