@@ -3,12 +3,12 @@
 
   # 👋 hi there, i'm adrian, a mathematician and ai + ml engineer
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&center=true&vCenter=true&width=550&height=30&lines=building+foothills+labs%3A+an+ai+research+lab;bayesian+optimization+%2B+adaptive+splines;llm+agents%2C+ai+harnesses%2C+and+document+understanding" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&center=true&vCenter=true&width=550&height=30&lines=building+plicara+labs%3A+an+ai+research+lab;evaluation+harnesses+before+the+models;bayesian+optimization+%2B+adaptive+splines;llm+agents%2C+ai+harnesses%2C+and+document+understanding" alt="typing intro" />
 </div>
 
 ## ⛵️ about me
 
-🔭 I’m currently working on [foothills labs](https://github.com/foothills-labs), [Agentia](https://github.com/AdrianTJ/Agentia), a Markdown and HTML editor for the AI age, my [MSc thesis on Bayesian optimization with BASS](https://github.com/AdrianTJ/BayesianOptim_BASS), autoresearching LLM agents, and Structured Document Extraction with OCR (lots of this!)
+🔭 I’m currently working on [plicara labs](https://github.com/plicara), [Agentia](https://github.com/AdrianTJ/Agentia), a macOS reader for the Markdown and HTML that coding agents leave behind, my [MSc thesis on Bayesian optimization with BASS](https://github.com/AdrianTJ/BayesianOptim_BASS), autoresearching LLM agents, and Structured Document Extraction with OCR (lots of this!)
 
 🌱 I’m currently learning **econometric theory**, **agentic harness design**, and **Rust** (and [keeping notes](https://github.com/AdrianTJ/Rust-Learning) as I go).
 
@@ -18,18 +18,20 @@
 
 ---
 
-## foothills labs
+## plicara labs
 
 <div align="center">
-  <a href="https://github.com/foothills-labs">
-    <img src="assets/avatarcreambordered.svg" height="104" alt="Foothills Labs" />
+  <a href="https://github.com/plicara">
+    <img src="assets/avatarcreambordered.svg" height="104" alt="Plicara Labs" />
   </a>
 
-  <p><b>foothills labs</b> — an AI research lab i'm building</p>
+  <p><b>plicara labs</b> — a (small) AI research lab i'm building: evaluation harnesses we trust first, models we care about second. <i>plicara</i>, from the Latin <i>plicare</i>, to fold.</p>
 
-  <a href="https://foothills-labs.github.io/"><img src="https://img.shields.io/badge/foothills--labs.github.io-EE8B33?style=flat-square&logo=googlechrome&logoColor=white" alt="foothills labs website" /></a>
-  <a href="https://github.com/foothills-labs/regexbench"><img src="https://img.shields.io/badge/regexbench-2F6E70?style=flat-square&logo=github&logoColor=white" alt="regexbench" /></a>
-  <a href="https://github.com/foothills-labs/labloop"><img src="https://img.shields.io/badge/labloop-2F6E70?style=flat-square&logo=github&logoColor=white" alt="labloop" /></a>
+  <a href="https://plicara.ai"><img src="https://img.shields.io/badge/plicara.ai-EE8B33?style=flat-square&logo=googlechrome&logoColor=white" alt="plicara labs website" /></a>
+  <a href="https://github.com/plicara/regexbench"><img src="https://img.shields.io/badge/regexbench-31606D?style=flat-square&logo=github&logoColor=white" alt="regexbench" /></a>
+  <a href="https://github.com/plicara/labloop"><img src="https://img.shields.io/badge/labloop-31606D?style=flat-square&logo=github&logoColor=white" alt="labloop" /></a>
+  <a href="https://github.com/plicara/regexeval-2026"><img src="https://img.shields.io/badge/regexeval--2026-31606D?style=flat-square&logo=github&logoColor=white" alt="regexeval-2026" /></a>
+  <a href="https://github.com/plicara/articles"><img src="https://img.shields.io/badge/articles-31606D?style=flat-square&logo=github&logoColor=white" alt="articles" /></a>
 </div>
 
 ---
@@ -39,30 +41,32 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">✍️ <a href="https://github.com/AdrianTJ/Agentia">Agentia</a></h3>
+      <h3 align="center">🔎 <a href="https://github.com/plicara/regexbench">regexbench</a></h3>
       <p align="center">
-        <a href="https://github.com/AdrianTJ/Agentia"><img src="https://img.shields.io/github/stars/AdrianTJ/Agentia?style=flat-square&logo=github&label=stars" alt="Agentia stars" /></a>
-        <img src="https://img.shields.io/github/languages/top/AdrianTJ/Agentia?style=flat-square" alt="Agentia top language" />
-        <img src="https://img.shields.io/github/last-commit/AdrianTJ/Agentia?style=flat-square&label=last%20commit" alt="Agentia last commit" />
+        <a href="https://pypi.org/project/regexbench/"><img src="https://img.shields.io/pypi/v/regexbench?style=flat-square&logo=pypi&logoColor=white&label=pypi" alt="regexbench on PyPI" /></a>
+        <a href="https://github.com/plicara/regexbench"><img src="https://img.shields.io/github/stars/plicara/regexbench?style=flat-square&logo=github&label=stars" alt="regexbench stars" /></a>
+        <img src="https://img.shields.io/github/last-commit/plicara/regexbench?style=flat-square&label=last%20commit" alt="regexbench last commit" />
       </p>
-      <p align="center">a Markdown and HTML editor for the AI age — a native writing environment built in Swift</p>
+      <p align="center">evaluate a regex the way a benchmark should — DFA equivalence with a shortest witness, correctness, and ReDoS safety, because passing the tests is not the same as being right or being safe</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎯 <a href="https://github.com/AdrianTJ/BayesianOptim_BASS">BayesianOptim_BASS</a></h3>
+      <h3 align="center">🔁 <a href="https://github.com/plicara/labloop">labloop</a></h3>
       <p align="center">
-        <a href="https://github.com/AdrianTJ/BayesianOptim_BASS"><img src="https://img.shields.io/github/stars/AdrianTJ/BayesianOptim_BASS?style=flat-square&logo=github&label=stars" alt="BASS stars" /></a>
-        <img src="https://img.shields.io/github/languages/top/AdrianTJ/BayesianOptim_BASS?style=flat-square" alt="BASS top language" />
-        <img src="https://img.shields.io/github/last-commit/AdrianTJ/BayesianOptim_BASS?style=flat-square&label=last%20commit" alt="BASS last commit" />
+        <a href="https://pypi.org/project/labloop/"><img src="https://img.shields.io/pypi/v/labloop?style=flat-square&logo=pypi&logoColor=white&label=pypi" alt="labloop on PyPI" /></a>
+        <a href="https://github.com/plicara/labloop"><img src="https://img.shields.io/github/stars/plicara/labloop?style=flat-square&logo=github&label=stars" alt="labloop stars" /></a>
+        <img src="https://img.shields.io/github/last-commit/plicara/labloop?style=flat-square&label=last%20commit" alt="labloop last commit" />
       </p>
-      <p align="center">my MSc thesis: Bayesian Adaptive Spline Surfaces as a surrogate model for Bayesian optimization — an alternative to Gaussian Processes that handles categorical inputs natively</p>
+      <p align="center">keep a change only if it measurably helps — an experiment loop for agent-driven research that runs trials under a wall-clock budget and records the reverted attempts too</p>
     </td>
   </tr>
 </table>
 
 ## 🚀 some of my other projects
 
+- ✍️ [Agentia](https://github.com/AdrianTJ/Agentia) — a fast, minimalist macOS reader for Markdown and HTML, built in Swift for reviewing what coding agents leave behind
+- 🎯 [BayesianOptim_BASS](https://github.com/AdrianTJ/BayesianOptim_BASS) — my MSc thesis: Bayesian Adaptive Spline Surfaces as a surrogate for Bayesian optimization, an alternative to Gaussian Processes that handles categorical inputs natively
 - 🧬 [mollify](https://github.com/FavioVazquez/mollify) — deterministic codebase intelligence for Python, written in Rust; a project I work on, now maintained by [@FavioVazquez](https://github.com/FavioVazquez)
-- 🤖 [Agentic Engineering](https://github.com/AdrianTJ/agentic_engineering) — agents and skills for agentic engineering
+- 🤖 [Agentic Engineering](https://github.com/AdrianTJ/agentic_engineering) — a library of harness-agnostic [Agent Skills](https://agentskills.io/specification): a CLI-first data science pipeline, written once and distributed to any agent that supports the standard
 - ⚡ [Loadstar](https://github.com/AdrianTJ/Loadstar) — a Go-based API for speed testing websites
 - 🦀 [Rust Learning](https://github.com/AdrianTJ/Rust-Learning) — notes and code as I learn Rust
 - 🌐 [adriantj.github.io](https://github.com/AdrianTJ/adriantj.github.io) — my personal site, blog, and project archive
