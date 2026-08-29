@@ -41,30 +41,32 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">✍️ <a href="https://github.com/AdrianTJ/Agentia">Agentia</a></h3>
+      <h3 align="center">🔎 <a href="https://github.com/plicara/regexbench">regexbench</a></h3>
       <p align="center">
-        <a href="https://github.com/AdrianTJ/Agentia"><img src="https://img.shields.io/github/stars/AdrianTJ/Agentia?style=flat-square&logo=github&label=stars" alt="Agentia stars" /></a>
-        <img src="https://img.shields.io/github/languages/top/AdrianTJ/Agentia?style=flat-square" alt="Agentia top language" />
-        <img src="https://img.shields.io/github/last-commit/AdrianTJ/Agentia?style=flat-square&label=last%20commit" alt="Agentia last commit" />
+        <a href="https://pypi.org/project/regexbench/"><img src="https://img.shields.io/pypi/v/regexbench?style=flat-square&logo=pypi&logoColor=white&label=pypi" alt="regexbench on PyPI" /></a>
+        <a href="https://github.com/plicara/regexbench"><img src="https://img.shields.io/github/stars/plicara/regexbench?style=flat-square&logo=github&label=stars" alt="regexbench stars" /></a>
+        <img src="https://img.shields.io/github/last-commit/plicara/regexbench?style=flat-square&label=last%20commit" alt="regexbench last commit" />
       </p>
-      <p align="center">a fast, minimalist macOS reader for Markdown and HTML — built in Swift for reviewing the artifacts coding agents leave behind</p>
+      <p align="center">evaluate a regex the way a benchmark should — DFA equivalence with a shortest witness, correctness, and ReDoS safety, because passing the tests is not the same as being right or being safe</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎯 <a href="https://github.com/AdrianTJ/BayesianOptim_BASS">BayesianOptim_BASS</a></h3>
+      <h3 align="center">🔁 <a href="https://github.com/plicara/labloop">labloop</a></h3>
       <p align="center">
-        <a href="https://github.com/AdrianTJ/BayesianOptim_BASS"><img src="https://img.shields.io/github/stars/AdrianTJ/BayesianOptim_BASS?style=flat-square&logo=github&label=stars" alt="BASS stars" /></a>
-        <img src="https://img.shields.io/github/languages/top/AdrianTJ/BayesianOptim_BASS?style=flat-square" alt="BASS top language" />
-        <img src="https://img.shields.io/github/last-commit/AdrianTJ/BayesianOptim_BASS?style=flat-square&label=last%20commit" alt="BASS last commit" />
+        <a href="https://pypi.org/project/labloop/"><img src="https://img.shields.io/pypi/v/labloop?style=flat-square&logo=pypi&logoColor=white&label=pypi" alt="labloop on PyPI" /></a>
+        <a href="https://github.com/plicara/labloop"><img src="https://img.shields.io/github/stars/plicara/labloop?style=flat-square&logo=github&label=stars" alt="labloop stars" /></a>
+        <img src="https://img.shields.io/github/last-commit/plicara/labloop?style=flat-square&label=last%20commit" alt="labloop last commit" />
       </p>
-      <p align="center">my MSc thesis: Bayesian Adaptive Spline Surfaces as a surrogate model for Bayesian optimization — an alternative to Gaussian Processes that handles categorical inputs natively</p>
+      <p align="center">keep a change only if it measurably helps — an experiment loop for agent-driven research that runs trials under a wall-clock budget and records the reverted attempts too</p>
     </td>
   </tr>
 </table>
 
 ## 🚀 some of my other projects
 
+- ✍️ [Agentia](https://github.com/AdrianTJ/Agentia) — a fast, minimalist macOS reader for Markdown and HTML, built in Swift for reviewing what coding agents leave behind
+- 🎯 [BayesianOptim_BASS](https://github.com/AdrianTJ/BayesianOptim_BASS) — my MSc thesis: Bayesian Adaptive Spline Surfaces as a surrogate for Bayesian optimization, an alternative to Gaussian Processes that handles categorical inputs natively
 - 🧬 [mollify](https://github.com/FavioVazquez/mollify) — deterministic codebase intelligence for Python, written in Rust; a project I work on, now maintained by [@FavioVazquez](https://github.com/FavioVazquez)
-- 🤖 [Agentic Engineering](https://github.com/AdrianTJ/agentic_engineering) — agents and skills for agentic engineering
+- 🤖 [Agentic Engineering](https://github.com/AdrianTJ/agentic_engineering) — a library of harness-agnostic [Agent Skills](https://agentskills.io/specification): a CLI-first data science pipeline, written once and distributed to any agent that supports the standard
 - ⚡ [Loadstar](https://github.com/AdrianTJ/Loadstar) — a Go-based API for speed testing websites
 - 🦀 [Rust Learning](https://github.com/AdrianTJ/Rust-Learning) — notes and code as I learn Rust
 - 🌐 [adriantj.github.io](https://github.com/AdrianTJ/adriantj.github.io) — my personal site, blog, and project archive
