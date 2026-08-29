@@ -3,12 +3,12 @@
 
   # 👋 hi there, i'm adrian, a mathematician and ai + ml engineer
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&center=true&vCenter=true&width=550&height=30&lines=building+foothills+labs%3A+an+ai+research+lab;bayesian+optimization+%2B+adaptive+splines;llm+agents%2C+ai+harnesses%2C+and+document+understanding" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&center=true&vCenter=true&width=550&height=30&lines=building+plicara+labs%3A+an+ai+research+lab;evaluation+harnesses+before+the+models;bayesian+optimization+%2B+adaptive+splines;llm+agents%2C+ai+harnesses%2C+and+document+understanding" alt="typing intro" />
 </div>
 
 ## ⛵️ about me
 
-🔭 I’m currently working on [foothills labs](https://github.com/foothills-labs), [Agentia](https://github.com/AdrianTJ/Agentia), a Markdown and HTML editor for the AI age, my [MSc thesis on Bayesian optimization with BASS](https://github.com/AdrianTJ/BayesianOptim_BASS), autoresearching LLM agents, and Structured Document Extraction with OCR (lots of this!)
+🔭 I’m currently working on [plicara labs](https://github.com/plicara), [Agentia](https://github.com/AdrianTJ/Agentia), a macOS reader for the Markdown and HTML that coding agents leave behind, my [MSc thesis on Bayesian optimization with BASS](https://github.com/AdrianTJ/BayesianOptim_BASS), autoresearching LLM agents, and Structured Document Extraction with OCR (lots of this!)
 
 🌱 I’m currently learning **econometric theory**, **agentic harness design**, and **Rust** (and [keeping notes](https://github.com/AdrianTJ/Rust-Learning) as I go).
 
@@ -18,18 +18,20 @@
 
 ---
 
-## foothills labs
+## plicara labs
 
 <div align="center">
-  <a href="https://github.com/foothills-labs">
-    <img src="assets/avatarcreambordered.svg" height="104" alt="Foothills Labs" />
+  <a href="https://github.com/plicara">
+    <img src="assets/avatarcreambordered.svg" height="104" alt="Plicara Labs" />
   </a>
 
-  <p><b>foothills labs</b> — an AI research lab i'm building</p>
+  <p><b>plicara labs</b> — a (small) AI research lab i'm building: evaluation harnesses we trust first, models we care about second. <i>plicara</i>, from the Latin <i>plicare</i>, to fold.</p>
 
-  <a href="https://foothills-labs.github.io/"><img src="https://img.shields.io/badge/foothills--labs.github.io-EE8B33?style=flat-square&logo=googlechrome&logoColor=white" alt="foothills labs website" /></a>
-  <a href="https://github.com/foothills-labs/regexbench"><img src="https://img.shields.io/badge/regexbench-2F6E70?style=flat-square&logo=github&logoColor=white" alt="regexbench" /></a>
-  <a href="https://github.com/foothills-labs/labloop"><img src="https://img.shields.io/badge/labloop-2F6E70?style=flat-square&logo=github&logoColor=white" alt="labloop" /></a>
+  <a href="https://plicara.ai"><img src="https://img.shields.io/badge/plicara.ai-EE8B33?style=flat-square&logo=googlechrome&logoColor=white" alt="plicara labs website" /></a>
+  <a href="https://github.com/plicara/regexbench"><img src="https://img.shields.io/badge/regexbench-31606D?style=flat-square&logo=github&logoColor=white" alt="regexbench" /></a>
+  <a href="https://github.com/plicara/labloop"><img src="https://img.shields.io/badge/labloop-31606D?style=flat-square&logo=github&logoColor=white" alt="labloop" /></a>
+  <a href="https://github.com/plicara/regexeval-2026"><img src="https://img.shields.io/badge/regexeval--2026-31606D?style=flat-square&logo=github&logoColor=white" alt="regexeval-2026" /></a>
+  <a href="https://github.com/plicara/articles"><img src="https://img.shields.io/badge/articles-31606D?style=flat-square&logo=github&logoColor=white" alt="articles" /></a>
 </div>
 
 ---
@@ -45,7 +47,7 @@
         <img src="https://img.shields.io/github/languages/top/AdrianTJ/Agentia?style=flat-square" alt="Agentia top language" />
         <img src="https://img.shields.io/github/last-commit/AdrianTJ/Agentia?style=flat-square&label=last%20commit" alt="Agentia last commit" />
       </p>
-      <p align="center">a Markdown and HTML editor for the AI age — a native writing environment built in Swift</p>
+      <p align="center">a fast, minimalist macOS reader for Markdown and HTML — built in Swift for reviewing the artifacts coding agents leave behind</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🎯 <a href="https://github.com/AdrianTJ/BayesianOptim_BASS">BayesianOptim_BASS</a></h3>
