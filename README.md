@@ -25,7 +25,7 @@
     <img src="assets/avatarcreambordered.svg" height="104" alt="Plicara Labs" />
   </a>
 
-  <p><b>plicara labs</b> — a (small) AI research lab i'm building: evaluation harnesses we trust first, models we care about second. <i>plicara</i>, from the Latin <i>plicare</i>, to fold.</p>
+  <p><b>plicara</b>: a (small) research lab i am building</p>
 
   <a href="https://plicara.ai"><img src="https://img.shields.io/badge/plicara.ai-EE8B33?style=flat-square&logo=googlechrome&logoColor=white" alt="plicara labs website" /></a>
   <a href="https://github.com/plicara/regexbench"><img src="https://img.shields.io/badge/regexbench-31606D?style=flat-square&logo=github&logoColor=white" alt="regexbench" /></a>
