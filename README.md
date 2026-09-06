@@ -18,10 +18,10 @@
 
 <div align="center">
   <a href="https://github.com/plicara">
-    <img src="assets/avatarcreambordered.svg" height="104" alt="Plicara Labs" />
+    <img src="assets/avatarcreambordered.svg" height="104" alt="plicara labs" />
   </a>
 
-  <p><b>plicara labs</b> — a (small) AI research lab i'm building: evaluation harnesses we trust first, models we care about second. <i>plicara</i>, from the Latin <i>plicare</i>, to fold.</p>
+  <p><b>plicara labs</b> — a (small) ai research lab i'm building: evaluation harnesses we trust first, models we care about second. <i>plicara</i>, from the latin <i>plicare</i>, to fold.</p>
 
   <a href="https://plicara.ai"><img src="https://img.shields.io/badge/plicara.ai-EE8B33?style=flat-square&logo=googlechrome&logoColor=white" alt="plicara labs website" /></a>
   <a href="https://github.com/plicara/regexbench"><img src="https://img.shields.io/badge/regexbench-31606D?style=flat-square&logo=github&logoColor=white" alt="regexbench" /></a>
@@ -32,32 +32,44 @@
 
 ---
 
-## 🌟 featured projects
-
 <table align="center">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🔎 <a href="https://github.com/plicara/regexbench">regexbench</a></h3>
       <p align="center">
-        <a href="https://pypi.org/project/regexbench/"><img src="https://img.shields.io/pypi/v/regexbench?style=flat-square&logo=pypi&logoColor=white&label=pypi" alt="regexbench on PyPI" /></a>
-        <a href="https://github.com/plicara/regexbench"><img src="https://img.shields.io/github/stars/plicara/regexbench?style=flat-square&logo=github&label=stars" alt="regexbench stars" /></a>
+        <a href="https://pypi.org/project/regexbench/"><img src="https://img.shields.io/pypi/v/regexbench?style=flat-square&logo=pypi&logoColor=white&label=pypi" alt="regexbench on pypi" /></a>
         <img src="https://img.shields.io/github/last-commit/plicara/regexbench?style=flat-square&label=last%20commit" alt="regexbench last commit" />
       </p>
-      <p align="center">evaluate a regex the way a benchmark should — DFA equivalence with a shortest witness, correctness, and ReDoS safety, because passing the tests is not the same as being right or being safe</p>
+      <p align="center">evaluate a regex the way a benchmark should — dfa equivalence with a shortest witness, correctness, and redos safety, because passing the tests is not the same as being right or being safe</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🔁 <a href="https://github.com/plicara/labloop">labloop</a></h3>
       <p align="center">
-        <a href="https://pypi.org/project/labloop/"><img src="https://img.shields.io/pypi/v/labloop?style=flat-square&logo=pypi&logoColor=white&label=pypi" alt="labloop on PyPI" /></a>
-        <a href="https://github.com/plicara/labloop"><img src="https://img.shields.io/github/stars/plicara/labloop?style=flat-square&logo=github&label=stars" alt="labloop stars" /></a>
+        <a href="https://pypi.org/project/labloop/"><img src="https://img.shields.io/pypi/v/labloop?style=flat-square&logo=pypi&logoColor=white&label=pypi" alt="labloop on pypi" /></a>
         <img src="https://img.shields.io/github/last-commit/plicara/labloop?style=flat-square&label=last%20commit" alt="labloop last commit" />
       </p>
       <p align="center">keep a change only if it measurably helps — an experiment loop for agent-driven research that runs trials under a wall-clock budget and records the reverted attempts too</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📐 <a href="https://github.com/plicara/regexeval-2026">regexeval-2026</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/github/last-commit/plicara/regexeval-2026?style=flat-square&label=last%20commit" alt="regexeval-2026 last commit" />
+      </p>
+      <p align="center">evaluation set + harness for regex tasks, 2026 edition — full write-up and results on the lab site</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">✏️ <a href="https://github.com/plicara/articles">articles</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/github/last-commit/plicara/articles?style=flat-square&label=last%20commit" alt="articles last commit" />
+      </p>
+      <p align="center">notes and write-ups from the lab — recent research lives here and on plicara.ai</p>
+    </td>
+  </tr>
 </table>
 
-## 🚀 some of my other projects
+## 🚀 other projects
 
 - ✍️ [Agentia](https://github.com/AdrianTJ/Agentia) — a fast, minimalist macOS reader for Markdown and HTML, built in Swift for reviewing what coding agents leave behind
 - 🎯 [BayesianOptim_BASS](https://github.com/AdrianTJ/BayesianOptim_BASS) — my MSc thesis: Bayesian Adaptive Spline Surfaces as a surrogate for Bayesian optimization, an alternative to Gaussian Processes that handles categorical inputs natively
