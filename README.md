@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="profile_img.gif" alt="Profile Image" />
+  <img height="150" src="profile_img.gif" alt="profile image" />
 
   # 👋 hi there, i'm adrian, a mathematician and ai + ml engineer
 
@@ -8,13 +8,9 @@
 
 ## ⛵️ about me
 
-🔭 I’m currently working on [plicara labs](https://github.com/plicara), [Agentia](https://github.com/AdrianTJ/Agentia), a macOS reader for the Markdown and HTML that coding agents leave behind, my [MSc thesis on Bayesian optimization with BASS](https://github.com/AdrianTJ/BayesianOptim_BASS), autoresearching LLM agents, and Structured Document Extraction with OCR (lots of this!)
-
-🌱 I’m currently learning **econometric theory**, **agentic harness design**, and **Rust** (and [keeping notes](https://github.com/AdrianTJ/Rust-Learning) as I go).
-
-👯 I’m looking to collaborate on **agentic systems**, **ai harnesses for programming**, and **document understanding**.
-
-👨‍💻 Some of my projects and my blog are available at [my personal website](https://adriantj.github.io/)
+- 🔭 currently building [plicara labs](https://github.com/plicara) — evaluation harnesses first, models second
+- 📄 working on my masters thesis ([bayesianoptim_bass](https://github.com/AdrianTJ/BayesianOptim_BASS)) + structured document extraction with ocr
+- 🌱 learning econometric theory, agentic harness design, and rust ([notes here](https://github.com/AdrianTJ/Rust-Learning) as i go)
 
 ---
 
