@@ -95,17 +95,27 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
 </div>
 
-**ml & data**
+**ai, ml and data**
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <a href="https://huggingface.co/docs/transformers/index">
+    <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" alt="huggingface logo" />
+  </a>
+  <img width="12" />
+  <a href="https://docs.langchain.com/">
+    <img src="https://cdn.simpleicons.org/langchain/2FC36B" height="40" alt="langchain logo" />
+  </a>
+  <img width="12" />
+  <a href="https://www.databricks.com/">
+    <img src="https://cdn.simpleicons.org/databricks/FF3621" height="40" alt="databricks logo" />
+  </a>
 </div>
 
 ---
