@@ -71,12 +71,11 @@
 
 ## 🚀 other projects
 
-- ✍️ [Agentia](https://github.com/AdrianTJ/Agentia) — a fast, minimalist macOS reader for Markdown and HTML, built in Swift for reviewing what coding agents leave behind
-- 🎯 [BayesianOptim_BASS](https://github.com/AdrianTJ/BayesianOptim_BASS) — my MSc thesis: Bayesian Adaptive Spline Surfaces as a surrogate for Bayesian optimization, an alternative to Gaussian Processes that handles categorical inputs natively
-- 🧬 [mollify](https://github.com/FavioVazquez/mollify) — deterministic codebase intelligence for Python, written in Rust; a project I work on, now maintained by [@FavioVazquez](https://github.com/FavioVazquez)
-- 🤖 [Agentic Engineering](https://github.com/AdrianTJ/agentic_engineering) — a library of harness-agnostic [Agent Skills](https://agentskills.io/specification): a CLI-first data science pipeline, written once and distributed to any agent that supports the standard
-- ⚡ [Loadstar](https://github.com/AdrianTJ/Loadstar) — a Go-based API for speed testing websites
-- 🦀 [Rust Learning](https://github.com/AdrianTJ/Rust-Learning) — notes and code as I learn Rust
+- 🎯 [bayesianoptim_bass](https://github.com/AdrianTJ/BayesianOptim_BASS) — my msc thesis: bayesian adaptive spline surfaces as a surrogate for bayesian optimization, an alternative to gaussian processes that handles categorical inputs natively
+- 🧬 [mollify](https://github.com/FavioVazquez/mollify) — deterministic codebase intelligence for python, written in rust; a project i work on, now maintained by [@faviovazquez](https://github.com/FavioVazquez)
+- 🤖 [agentic engineering](https://github.com/AdrianTJ/agentic_engineering) — a library of harness-agnostic [agent skills](https://agentskills.io/specification): a cli-first data science pipeline, written once and distributed to any agent that supports the standard
+- ⚡ [loadstar](https://github.com/AdrianTJ/Loadstar) — a go-based api for speed testing websites
+- 🦀 [rust learning](https://github.com/AdrianTJ/Rust-Learning) — notes and code as i learn rust
 - 🌐 [adriantj.github.io](https://github.com/AdrianTJ/adriantj.github.io) — my personal site, blog, and project archive
 
 ---
