@@ -139,6 +139,14 @@
 ## 🔥 stats
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=adriantj&hide_rank=true&show_icons=true&theme=dark&hide_border=true" height="165" alt="github stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=adriantj&layout=compact&theme=dark&hide_border=true" height="165" alt="top languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=adriantj&hide_rank=true&show_icons=true&theme=dark&hide_border=true&hide=stars&custom_title=adrian%27s%20github%20stats" height="165" alt="github stats" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/plicara/regexbench">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=plicara&repo=regexbench&theme=dark&hide_border=true&show_owner=true" height="120" alt="regexbench pin" />
+  </a>
+  <a href="https://github.com/plicara/labloop">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=plicara&repo=labloop&theme=dark&hide_border=true&show_owner=true" height="120" alt="labloop pin" />
+  </a>
 </div>
