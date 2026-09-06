@@ -30,8 +30,6 @@
   <a href="https://github.com/plicara/articles"><img src="https://img.shields.io/badge/articles-31606D?style=flat-square&logo=github&logoColor=white" alt="articles" /></a>
 </div>
 
----
-
 <table align="center">
   <tr>
     <td width="50%" valign="top">
@@ -120,19 +118,27 @@
 
 ---
 
+## 📫 connect
+
+<p align="center">looking to collaborate on agentic systems, ai harnesses for programming, and document understanding.</p>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/adrian-tj/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://adriantj.github.io/">
-    <img src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=googlechrome&logoColor=white" height="25" alt="website link" />
+    <img src="https://img.shields.io/badge/website-222222?style=for-the-badge&logo=googlechrome&logoColor=white" height="25" alt="website link" />
+  </a>
+  <a href="https://x.com/Adrian_TameJ">
+    <img src="https://img.shields.io/static/v1?message=x&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo" />
   </a>
 </div>
 
 ---
 
-## 🔥 my stats :
+## 🔥 stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=adriantj&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://github-stats-extended.vercel.app/api?username=adriantj&hide_rank=true&show_icons=true&theme=dark&hide_border=true" height="165" alt="github stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=adriantj&layout=compact&theme=dark&hide_border=true" height="165" alt="top languages" />
 </div>
