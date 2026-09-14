@@ -3,14 +3,17 @@
 
   # 👋 hi there, i'm adrian, a mathematician and ai + ml engineer
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&center=true&vCenter=true&width=550&height=30&lines=building+plicara+labs%3A+an+ai+research+lab;evaluation+harnesses+before+the+models;bayesian+optimization+%2B+adaptive+splines;llm+agents%2C+ai+harnesses%2C+and+document+understanding" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&center=true&vCenter=true&width=550&height=30&lines=building+plicara+labs%3A+an+ai+research+lab;reproducible+studies%2C+benchmarks%2C+and+tools;bayesian+optimization+%2B+adaptive+splines;llm+agents%2C+ai+harnesses%2C+and+document+understanding" alt="typing intro" />
 </div>
 
 ## ⛵️ about me
 
-- 🔭 currently building [plicara labs](https://github.com/plicara) — evaluation harnesses first, models second
-- 📄 working on my masters thesis ([bayesianoptim_bass](https://github.com/AdrianTJ/BayesianOptim_BASS)) + structured document extraction with ocr
-- 🌱 learning econometric theory, agentic harness design, and rust ([notes here](https://github.com/AdrianTJ/Rust-Learning) as i go)
+- 🔭 i build evaluations and tools for understanding when ai systems can be trusted. [plicara labs](https://plicara.ai/) is my independent ai research practice: reproducible studies, benchmarks, and practical tools.
+- 💼 lead ii data scientist at s&p global, working on document extraction and internal benchmarking for model evaluation. previously, i worked on experimentation and customer segmentation at zillow and held data-science leadership roles at coca-cola femsa.
+- 📄 applied mathematics at itam; msc in data science coursework completed in 2022, with my [bayesian-optimization thesis](https://github.com/AdrianTJ/BayesianOptim_BASS) expected in september 2026.
+- 🌱 learning econometric theory, systems design, and rust ([notes here](https://github.com/AdrianTJ/Rust-Learning) as i go).
+
+[personal website](https://adriantj.github.io/) · [experience / cv](https://adriantj.github.io/cv/) · [research](https://plicara.ai/research/)
 
 ---
 
@@ -21,7 +24,7 @@
     <img src="assets/avatarcreambordered.svg" height="104" alt="plicara labs" />
   </a>
 
-  <p><b>plicara labs</b> — a (small) ai research lab i'm building: evaluation harnesses we trust first, models we care about second. <i>plicara</i>, from the latin <i>plicare</i>, to fold.</p>
+  <p><b>plicara labs</b> — my independent ai research lab. how do we know an ai system works? i investigate that question through reproducible studies, benchmarks, and practical tools.</p>
 
   <a href="https://plicara.ai"><img src="https://img.shields.io/badge/plicara.ai-EE8B33?style=flat-square&logo=googlechrome&logoColor=white" alt="plicara labs website" /></a>
   <a href="https://github.com/plicara/regexbench"><img src="https://img.shields.io/badge/regexbench-31606D?style=flat-square&logo=github&logoColor=white" alt="regexbench" /></a>
@@ -55,7 +58,7 @@
       <p align="center">
         <img src="https://img.shields.io/github/last-commit/plicara/regexeval-2026?style=flat-square&label=last%20commit" alt="regexeval-2026 last commit" />
       </p>
-      <p align="center">evaluation set + harness for regex tasks, 2026 edition — full write-up and results on the lab site</p>
+      <p align="center">my study of generated regexes: test passing, vulnerability screening, and an audit of benchmark answer keys. <a href="https://plicara.ai/research/whether-anyone-ever-ran-it/">read the study and its limitations.</a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">✏️ <a href="https://github.com/plicara/articles">articles</a></h3>
@@ -69,8 +72,8 @@
 
 ## 🚀 other projects
 
-- 🎯 [bayesianoptim_bass](https://github.com/AdrianTJ/BayesianOptim_BASS) — my msc thesis: bayesian adaptive spline surfaces as a surrogate for bayesian optimization, an alternative to gaussian processes that handles categorical inputs natively
-- 🧬 [mollify](https://github.com/FavioVazquez/mollify) — deterministic codebase intelligence for python, written in rust; a project i work on, now maintained by [@faviovazquez](https://github.com/FavioVazquez)
+- 🎯 [bayesianoptim_bass](https://github.com/AdrianTJ/BayesianOptim_BASS) — my msc thesis on spline surrogates for bayesian optimization, with companion research into how experimental machinery affects optimizer comparisons.
+- 🧬 [mollify](https://github.com/FavioVazquez/mollify) — a rust-native static analysis engine for python that i help build with [favio vázquez](https://github.com/FavioVazquez). reproducible findings for developers, ci, and coding agents, with explicit scope and confidence levels.
 - 🤖 [agentic engineering](https://github.com/AdrianTJ/agentic_engineering) — a library of harness-agnostic [agent skills](https://agentskills.io/specification): a cli-first data science pipeline, written once and distributed to any agent that supports the standard
 - ⚡ [loadstar](https://github.com/AdrianTJ/Loadstar) — a go-based api for speed testing websites
 - 🦀 [rust learning](https://github.com/AdrianTJ/Rust-Learning) — notes and code as i learn rust
@@ -120,7 +123,7 @@
 
 ## 📫 connect
 
-<p align="center">looking to collaborate on agentic systems, ai harnesses for programming, and document understanding.</p>
+<p align="center">happy to collaborate on agentic systems, benchmarking, ai research, and anomaly detection.</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/adrian-tj/">
