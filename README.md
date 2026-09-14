@@ -8,12 +8,12 @@
 
 ## ⛵️ about me
 
-- 🔭 I build evaluations and tools for understanding when AI systems can be trusted. [Plicara Labs](https://plicara.ai/) is my independent AI research practice: reproducible studies, benchmarks, and practical tools.
-- 💼 Lead II Data Scientist at S&P Global, working on document extraction and internal benchmarking for model evaluation. Previously, I worked on experimentation and customer segmentation at Zillow and held data-science leadership roles at Coca-Cola FEMSA.
-- 📄 Applied mathematics at ITAM; MSc in Data Science coursework completed in 2022, with my [Bayesian-optimization thesis](https://github.com/AdrianTJ/BayesianOptim_BASS) expected in September 2026.
-- 🌱 Learning econometric theory, systems design, and Rust ([notes here](https://github.com/AdrianTJ/Rust-Learning) as I go).
+- 🔭 i build evaluations and tools for understanding when ai systems can be trusted. [plicara labs](https://plicara.ai/) is my independent ai research practice: reproducible studies, benchmarks, and practical tools.
+- 💼 lead ii data scientist at s&p global, working on document extraction and internal benchmarking for model evaluation. previously, i worked on experimentation and customer segmentation at zillow and held data-science leadership roles at coca-cola femsa.
+- 📄 applied mathematics at itam; msc in data science coursework completed in 2022, with my [bayesian-optimization thesis](https://github.com/AdrianTJ/BayesianOptim_BASS) expected in september 2026.
+- 🌱 learning econometric theory, systems design, and rust ([notes here](https://github.com/AdrianTJ/Rust-Learning) as i go).
 
-[Personal website](https://adriantj.github.io/) · [Experience / CV](https://adriantj.github.io/cv/) · [Research](https://plicara.ai/research/)
+[personal website](https://adriantj.github.io/) · [experience / cv](https://adriantj.github.io/cv/) · [research](https://plicara.ai/research/)
 
 ---
 
@@ -24,7 +24,7 @@
     <img src="assets/avatarcreambordered.svg" height="104" alt="plicara labs" />
   </a>
 
-  <p><b>plicara labs</b> — my independent AI research lab. How do we know an AI system works? I investigate that question through reproducible studies, benchmarks, and practical tools.</p>
+  <p><b>plicara labs</b> — my independent ai research lab. how do we know an ai system works? i investigate that question through reproducible studies, benchmarks, and practical tools.</p>
 
   <a href="https://plicara.ai"><img src="https://img.shields.io/badge/plicara.ai-EE8B33?style=flat-square&logo=googlechrome&logoColor=white" alt="plicara labs website" /></a>
   <a href="https://github.com/plicara/regexbench"><img src="https://img.shields.io/badge/regexbench-31606D?style=flat-square&logo=github&logoColor=white" alt="regexbench" /></a>
@@ -58,7 +58,7 @@
       <p align="center">
         <img src="https://img.shields.io/github/last-commit/plicara/regexeval-2026?style=flat-square&label=last%20commit" alt="regexeval-2026 last commit" />
       </p>
-      <p align="center">my study of generated regexes: test passing, vulnerability screening, and an audit of benchmark answer keys. <a href="https://plicara.ai/research/whether-anyone-ever-ran-it/">Read the study and its limitations.</a></p>
+      <p align="center">my study of generated regexes: test passing, vulnerability screening, and an audit of benchmark answer keys. <a href="https://plicara.ai/research/whether-anyone-ever-ran-it/">read the study and its limitations.</a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">✏️ <a href="https://github.com/plicara/articles">articles</a></h3>
@@ -72,8 +72,8 @@
 
 ## 🚀 other projects
 
-- 🎯 [BayesianOptim_BASS](https://github.com/AdrianTJ/BayesianOptim_BASS) — my MSc thesis on spline surrogates for Bayesian optimization, with companion research into how experimental machinery affects optimizer comparisons.
-- 🧬 [Mollify](https://github.com/FavioVazquez/mollify) — a Rust-native static analysis engine for Python that I help build with [Favio Vázquez](https://github.com/FavioVazquez). Reproducible findings for developers, CI, and coding agents, with explicit scope and confidence levels.
+- 🎯 [bayesianoptim_bass](https://github.com/AdrianTJ/BayesianOptim_BASS) — my msc thesis on spline surrogates for bayesian optimization, with companion research into how experimental machinery affects optimizer comparisons.
+- 🧬 [mollify](https://github.com/FavioVazquez/mollify) — a rust-native static analysis engine for python that i help build with [favio vázquez](https://github.com/FavioVazquez). reproducible findings for developers, ci, and coding agents, with explicit scope and confidence levels.
 - 🤖 [agentic engineering](https://github.com/AdrianTJ/agentic_engineering) — a library of harness-agnostic [agent skills](https://agentskills.io/specification): a cli-first data science pipeline, written once and distributed to any agent that supports the standard
 - ⚡ [loadstar](https://github.com/AdrianTJ/Loadstar) — a go-based api for speed testing websites
 - 🦀 [rust learning](https://github.com/AdrianTJ/Rust-Learning) — notes and code as i learn rust
@@ -123,7 +123,7 @@
 
 ## 📫 connect
 
-<p align="center">Happy to collaborate on agentic systems, benchmarking, AI research, and anomaly detection.</p>
+<p align="center">happy to collaborate on agentic systems, benchmarking, ai research, and anomaly detection.</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/adrian-tj/">
